@@ -1,0 +1,27 @@
+MAP_PACK_OBJECTIVES
+
+Each map should have a theme that is sufficently distict from other maps. (Though there can be some overlap.)
+Each map should have its theme and objectives described in the begining of its generator
+Be useable in inland, costal and island form, unless a special objective is otherwise intented (ie, River & Volcano)
+Be usable in and balanced for 30x30, and still be resonably playable in 20x20 & 40x40
+Have as rich of a terrain variety as possible in executing the theme of the map
+Maps are primarly for playing player vs computer, and a subset is for use in Random Campaign
+Code should be as simple as possible, because I am dealing with a lot of maps.
+
+Usability clause means mountains/impassable mountains/cave/cave wall should be the heighest terrain, and shallow & deep water the lowest in normal usage.
+Useability clause means no bridges over deep water to prevent roads over deep water on costal & island maps
+Likely means that deep water should not be frozen on winter maps
+What is in beween is up to each individual map
+This height range should transfer to most maps with no tweaks other than terrain type.
+Villages should be able to appear on all possible terrains except for deep water, costal reef, unwalkable, & impassable
+Should roads go through impassable if I have a low enough amount of impassible?
+
+
+Standard height range
+{HEIGHT 900 Mm^Xm}
+{HEIGHT 600 Mm} # adjust as needed
+{HEIGHT 450 Hh} # adjust as needed
+{HEIGHT 100 Gg} # adjust as needed
+{HEIGHT 050 Wwf} # adjust as needed, up not down
+{HEIGHT 005 Ww}
+{HEIGHT 000 Wo}
