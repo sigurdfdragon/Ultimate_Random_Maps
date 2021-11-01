@@ -1,11 +1,14 @@
+The purpose of this file is to encourage the author to trend in the direction of the objectives outlined below.
+
 MAP_PACK_OBJECTIVES
 
 Each map should have a theme that is sufficently distict from other maps. (Though there can be some overlap.)
-Each map should have its theme and objectives described in the begining of its generator
+Each map should have its theme and objectives described in the begining of its generator.
 Be useable in inland, costal and island form, unless a special objective is otherwise intented (ie, River & Volcano)
-Be usable in and balanced for 30x30, and still be resonably playable in 20x20 & 40x40
-Have as rich of a terrain variety as possible in executing the theme of the map
-Maps are primarly for playing player vs computer, and a subset is for use in Random Campaign
+Be usable in and balanced for 30x30, and still be resonably playable in 20x20 & 40x40.
+Have as rich of a terrain variety as possible in executing the theme of the map.
+Terrain used as roads for a map should only be used as roads on that map.
+Maps are primarly for playing player vs computer, and a subset is for use in Random Campaign.
 Code should be as simple as possible, because I am dealing with a lot of maps.
 
 Usability clause means mountains/impassable mountains/cave/cave wall should be the heighest terrain, and shallow & deep water the lowest in normal usage.
